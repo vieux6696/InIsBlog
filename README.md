@@ -13,4 +13,4 @@
 > 部署前请先安装 [Go](https://golang.org/dl/) ，然后在项目根目录下执行 `go build` 即可，编译完成后会生成一个的可执行文件，将其放到服务器上即可
 
 ### 作者
-> [兔子](https://inis.cn)，QQ：[97783391](https://wpa.qq.com/msgrd?v=3&uin=97783391&site=qq&menu=yes)，微信：`v-inis`
+> [兔子]，QQ：[717433574]
